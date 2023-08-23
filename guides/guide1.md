@@ -7,24 +7,24 @@ Welcome to the study guide for Chapter 1 of the textbook "Computer Networks: A S
 Sections: 1.1, 1.2, 1.3 and 1.5 
 
 ## 1. Building a Scalable Network
-1.1 What are the key considerations when building a scalable network?
-1.2 Explain the concept of network scalability and why it is important.
-1.3 Provide examples of different applications that require a scalable network.
-1.4 Why does a network need to be cost-effective, fair, and have robust connectivity?
-1.5 Discuss the challenges involved in designing a network that can support various applications.
+- What are the key considerations when building a scalable network?
+- Explain the concept of network scalability and why it is important.
+- Provide examples of different applications that require a scalable network.
+- Why does a network need to be cost-effective, fair, and have robust connectivity?
+- Discuss the challenges involved in designing a network that can support various applications.
 
 
 ## 2. Computer Network Architecture
-2.1 Define computer network architecture in terms of layers and protocols
-2.2 Why are layers and protocols important?
-2.3 What is encapsulation, multiplexing and demultiplexing?
-2.4 Discuss the role of each layer in the OSI and Internet protocol stack.
-2.5 Provide examples of protocols used at each layer of the TCP/IP protocol stack.
+- Define computer network architecture in terms of layers and protocols
+- Why are layers and protocols important?
+- What is encapsulation, multiplexing and demultiplexing?
+- Discuss the role of each layer in the OSI and Internet protocol stack.
+- Provide examples of protocols used at each layer of the TCP/IP protocol stack.
 
 ## 3. Performance
-3.1 Why is important to keep track of the performance of a network?
-3.2 What are the main metrics we use to measure network performance?
-3.3 Give some examples of the challenges of using different metrics in high speed networks
+- Why is important to keep track of the performance of a network?
+- What are the main metrics we use to measure network performance?
+- Give some examples of the challenges of using different metrics in high speed networks
 
 
 ## Exercises
