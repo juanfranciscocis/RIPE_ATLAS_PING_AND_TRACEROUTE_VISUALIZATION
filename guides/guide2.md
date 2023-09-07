@@ -48,4 +48,10 @@ Sections: 2.1, 2.2, 2.4, 2.5, 2.6 and 2.7
 
 ## Exercises
 
-To be added. 
+1. Show the 4B/5B encoding, and the resulting NRZI signal, for the
+following bit sequence:
+1110 0101 0000 0011
+
+2. Show the 4B/5B encoding, and the resulting NRZI signal, for the
+following bit sequence:
+1101 1110 1010 1101 1011 1110 1110 1111
