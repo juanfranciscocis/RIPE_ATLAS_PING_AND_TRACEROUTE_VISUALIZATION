@@ -55,3 +55,16 @@ following bit sequence:
 2. Show the Manchester, 4B/5B encoding, and the resulting NRZI signal, for the
 following bit sequence:
 1101 1110 1010 1101 1011 1110 1110 1111
+
+3. Suppose we want to transmit the message "1011 0010 0100 1011" and protect it from errors using the CRC8 polynomial $x^8 + x^2 + x^1 + 1$.
+
+- Use polynomial long division to determine the message that should be transmitted.
+- Suppose the leftmost bit of the message is inverted due to noise on the transmission link. What is the result of the receiver’s CRC calculation? How does the receiver know that an error has occurred?
+
+4. Consider an ARQ protocol that uses only negative acknowledgments (NAKs), but no positive acknowledgments (ACKs). Describe what timeouts would have to be scheduled. Explain why an ACK-based protocol is usually preferred to a NAK-based protocol.
+
+
+5. Draw a timeline diagram for the sliding window algorithm with SWS = RWS = 3 frames, for the following two situations. Use a timeout interval of about 2 × RTT.
+
+- Frame 4 is lost.
+- Frames 4 to 6 are lost.
