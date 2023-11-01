@@ -56,7 +56,8 @@ Sections: 3.1, 3.2 (except 3.2.2), 3.3, and 3.4
 
 
 
+## Exercises
 
-```python
+![net](./network.png)
 
-```
+1. For the network given in figure above, show how the link-state algorithm builds the routing table for node D.
