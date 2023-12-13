@@ -1,0 +1,776 @@
+[
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": -1,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 26.792626,
+    "af": 4,
+    "dst_addr": "3.5.28.139",
+    "src_addr": "172.17.0.2",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 1006144,
+    "timestamp": 1702159436,
+    "msm_name": "Ping",
+    "from": "203.161.185.210",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159734
+  },
+  {
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 2,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 17.902486,
+    "af": 4,
+    "dst_addr": "3.5.27.182",
+    "src_addr": "172.17.0.2",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 1002364,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "124.157.118.250",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159752
+  },
+  {
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 42,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 7.901925,
+    "af": 4,
+    "dst_addr": "52.216.145.171",
+    "src_addr": "10.11.0.130",
+    "proto": "ICMP",
+    "ttl": 234,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 94.093795
+      },
+      {
+        "rtt": 94.205188
+      },
+      {
+        "rtt": 96.10356,
+        "ttl": 234
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 94.093795,
+    "max": 96.10356,
+    "avg": 94.8008476667,
+    "msm_id": 64652608,
+    "prb_id": 1002399,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "185.62.81.186",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159714
+  },
+  {
+    "fw": 5040,
+    "mver": "2.4.1",
+    "lts": 82,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 21.226708,
+    "af": 4,
+    "dst_addr": "52.216.52.73",
+    "src_addr": "192.168.13.4",
+    "proto": "ICMP",
+    "ttl": 242,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 68.315218
+      },
+      {
+        "rtt": 67.666948
+      },
+      {
+        "rtt": 67.791424
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 67.666948,
+    "max": 68.315218,
+    "avg": 67.92453,
+    "msm_id": 64652608,
+    "prb_id": 1004275,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "43.130.1.236",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159765
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 38,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 57.042471,
+    "af": 4,
+    "dst_addr": "52.217.117.113",
+    "src_addr": "172.19.0.11",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 1006480,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "2.188.186.34",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159749
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 13,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 270.817927,
+    "af": 4,
+    "dst_addr": "52.216.162.59",
+    "src_addr": "10.0.100.102",
+    "proto": "ICMP",
+    "ttl": 234,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 40.80032
+      },
+      {
+        "rtt": 82.947617
+      },
+      {
+        "rtt": 37.820603
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 37.820603,
+    "max": 82.947617,
+    "avg": 53.85618,
+    "msm_id": 64652608,
+    "prb_id": 1006634,
+    "timestamp": 1702159699,
+    "msm_name": "Ping",
+    "from": "12.45.41.239",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159709
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 54,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 65.529051,
+    "af": 4,
+    "dst_addr": "52.217.225.241",
+    "src_addr": "10.2.0.179",
+    "proto": "ICMP",
+    "ttl": 239,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 164.007314
+      },
+      {
+        "rtt": 164.198239
+      },
+      {
+        "rtt": 164.280879
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 164.007314,
+    "max": 164.280879,
+    "avg": 164.162144,
+    "msm_id": 64652608,
+    "prb_id": 14015,
+    "timestamp": 1702159699,
+    "msm_name": "Ping",
+    "from": "212.164.54.90",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159745
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 42,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 5013.645495,
+    "af": 4,
+    "dst_addr": "52.216.59.217",
+    "src_addr": "192.168.7.42",
+    "proto": "ICMP",
+    "ttl": 238,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 91.741881
+      },
+      {
+        "rtt": 90.119978
+      },
+      {
+        "rtt": 89.693374
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 89.693374,
+    "max": 91.741881,
+    "avg": 90.518411,
+    "msm_id": 64652608,
+    "prb_id": 32496,
+    "timestamp": 1702159703,
+    "msm_name": "Ping",
+    "from": "87.127.171.52",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159743
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 63,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 46.916333,
+    "af": 4,
+    "dst_addr": "52.217.108.52",
+    "src_addr": "192.168.86.216",
+    "proto": "ICMP",
+    "ttl": 236,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 40.283958
+      },
+      {
+        "rtt": 40.102709
+      },
+      {
+        "rtt": 32.007375
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 32.007375,
+    "max": 40.283958,
+    "avg": 37.4646806667,
+    "msm_id": 64652608,
+    "prb_id": 50276,
+    "timestamp": 1702159699,
+    "msm_name": "Ping",
+    "from": "98.229.124.63",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159724
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 14,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 10100.41163,
+    "af": 4,
+    "dst_addr": "16.182.33.161",
+    "src_addr": "192.168.11.172",
+    "proto": "ICMP",
+    "ttl": 240,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 102.166375
+      },
+      {
+        "rtt": 101.90125
+      },
+      {
+        "rtt": 101.847375
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 101.847375,
+    "max": 102.166375,
+    "avg": 101.9716666667,
+    "msm_id": 64652608,
+    "prb_id": 53050,
+    "timestamp": 1702159709,
+    "msm_name": "Ping",
+    "from": "185.217.72.253",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159781
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 57,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 67.575417,
+    "af": 4,
+    "dst_addr": "52.217.33.188",
+    "src_addr": "10.21.96.144",
+    "proto": "ICMP",
+    "ttl": 244,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 9.411291
+      },
+      {
+        "rtt": 8.011
+      },
+      {
+        "rtt": 7.017875
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 7.017875,
+    "max": 9.411291,
+    "avg": 8.146722,
+    "msm_id": 64652608,
+    "prb_id": 54416,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "98.115.156.73",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159716
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 61,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 41.779792,
+    "af": 4,
+    "dst_addr": "3.5.25.36",
+    "src_addr": "10.0.0.2",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 55330,
+    "timestamp": 1702159697,
+    "msm_name": "Ping",
+    "from": "47.150.160.188",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159755
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 11,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 92.875804,
+    "af": 4,
+    "dst_addr": "52.216.209.25",
+    "src_addr": "91.211.235.82",
+    "proto": "ICMP",
+    "ttl": 249,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 117.620773
+      },
+      {
+        "rtt": 117.810146
+      },
+      {
+        "rtt": 117.850143
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 117.620773,
+    "max": 117.850143,
+    "avg": 117.760354,
+    "msm_id": 64652608,
+    "prb_id": 60661,
+    "timestamp": 1702159701,
+    "msm_name": "Ping",
+    "from": "91.211.235.82",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159711
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 44,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 22.156221,
+    "af": 4,
+    "dst_addr": "3.5.9.210",
+    "src_addr": "192.168.2.134",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 61352,
+    "timestamp": 1702159697,
+    "msm_name": "Ping",
+    "from": "71.231.41.80",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159726
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 12,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 31.889917,
+    "af": 4,
+    "dst_addr": "52.217.224.153",
+    "src_addr": "192.168.178.69",
+    "proto": "ICMP",
+    "ttl": 244,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 111.214792
+      },
+      {
+        "rtt": 109.785379
+      },
+      {
+        "rtt": 109.667608
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 109.667608,
+    "max": 111.214792,
+    "avg": 110.222593,
+    "msm_id": 64652608,
+    "prb_id": 61353,
+    "timestamp": 1702159698,
+    "msm_name": "Ping",
+    "from": "92.75.245.4",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159736
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 31,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 10048.734127,
+    "af": 4,
+    "dst_addr": "3.5.7.203",
+    "src_addr": "192.168.6.199",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 61504,
+    "timestamp": 1702159713,
+    "msm_name": "Ping",
+    "from": "103.142.158.74",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159775
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 7,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 30.071541,
+    "af": 4,
+    "dst_addr": "3.5.29.20",
+    "src_addr": "192.168.1.28",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 61697,
+    "timestamp": 1702159706,
+    "msm_name": "Ping",
+    "from": "134.17.4.148",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159752
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 17,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 76.355911,
+    "af": 4,
+    "dst_addr": "3.5.27.194",
+    "src_addr": "192.168.7.99",
+    "proto": "ICMP",
+    "size": 48,
+    "result": [
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      },
+      {
+        "x": "*"
+      }
+    ],
+    "dup": 0,
+    "rcvd": 0,
+    "sent": 3,
+    "min": -1,
+    "max": -1,
+    "avg": -1,
+    "msm_id": 64652608,
+    "prb_id": 61955,
+    "timestamp": 1702159706,
+    "msm_name": "Ping",
+    "from": "94.134.53.113",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159740
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 28,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 41.834522,
+    "af": 4,
+    "dst_addr": "52.217.164.137",
+    "src_addr": "10.0.0.111",
+    "proto": "ICMP",
+    "ttl": 241,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 26.788217
+      },
+      {
+        "rtt": 30.924049
+      },
+      {
+        "rtt": 29.87707
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 26.788217,
+    "max": 30.924049,
+    "avg": 29.1964453333,
+    "msm_id": 64652608,
+    "prb_id": 62310,
+    "timestamp": 1702159704,
+    "msm_name": "Ping",
+    "from": "73.174.126.72",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159722
+  },
+  {
+    "fw": 5080,
+    "mver": "2.6.2",
+    "lts": 16,
+    "dst_name": "proyectoredes.s3.amazonaws.com",
+    "ttr": 33.358684,
+    "af": 4,
+    "dst_addr": "52.216.146.235",
+    "src_addr": "192.168.1.3",
+    "proto": "ICMP",
+    "ttl": 238,
+    "size": 48,
+    "result": [
+      {
+        "rtt": 37.714218
+      },
+      {
+        "rtt": 38.331876
+      },
+      {
+        "rtt": 38.249629,
+        "ttl": 238
+      }
+    ],
+    "dup": 0,
+    "rcvd": 3,
+    "sent": 3,
+    "min": 37.714218,
+    "max": 38.331876,
+    "avg": 38.0985743333,
+    "msm_id": 64652608,
+    "prb_id": 63032,
+    "timestamp": 1702159702,
+    "msm_name": "Ping",
+    "from": "136.50.102.62",
+    "type": "ping",
+    "group_id": 64652608,
+    "step": null,
+    "stored_timestamp": 1702159748
+  }
+]
